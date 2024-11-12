@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![roadmap.sh](https://roadmap.sh/card/wide/67000c99fb4be684dbb3cf0a?variant=dark)](https://roadmap.sh)
+
 <!--
 **mtariqsajid/mtariqsajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
