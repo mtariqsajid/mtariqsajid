@@ -1,4 +1,5 @@
 ## Hi there 👋
+- I am available for remote work contact me on my linkedin https://www.linkedin.com/in/tariq-sajid/
 
 [![roadmap.sh](https://roadmap.sh/card/wide/67000c99fb4be684dbb3cf0a?variant=dark)](https://roadmap.sh)
 
