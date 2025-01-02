@@ -1,6 +1,8 @@
 ## Hi there 👋
 - I am available for remote work contact me on my linkedin https://www.linkedin.com/in/tariq-sajid/
 
+[![autocomplete](https://codeium.com/badges/user/corruptly-outgoing-mako-45247/autocomplete)](https://codeium.com/profile/corruptly-outgoing-mako-45247)
+
 [![roadmap.sh](https://roadmap.sh/card/wide/67000c99fb4be684dbb3cf0a?variant=dark)](https://roadmap.sh)
 
 <!--
